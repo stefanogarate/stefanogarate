@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stefanogarate
-- 👀 I’m interested in Programming/Games/Sport
+- 👀 I’m interested in Programming/Books/Games/Sport
 - 🌱 I’m currently learning about life
 <!--- 
 - 💞️ I’m looking to collaborate on ...
